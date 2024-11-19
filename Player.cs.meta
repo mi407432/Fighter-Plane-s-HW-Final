@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a17de3fb8bc18b146a5695afd425b618
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - thruster: {instanceID: 0}
+  - shield: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - powerUpSound: {fileID: 8300000, guid: af7002a59edb7984d94667fa6e6deeed, type: 3}
+  - powerDownSound: {fileID: 8300000, guid: 12cb656f6097f63418ea2ad1dba8a54e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
